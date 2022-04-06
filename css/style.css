@@ -53,6 +53,7 @@ main{
    background-repeat:no-repeat;
    background-position: center;
    background-size: cover;
+   background-attachment: fixed
   
 }
 
@@ -191,6 +192,7 @@ h1{
      url(https://vivirmejor.mx/wp-content/uploads/2020/03/d%C3%ADa-del-waffle-1200x675.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    background-attachment: fixed
     height: 300px;
     text-align: center;
 }
