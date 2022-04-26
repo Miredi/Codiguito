@@ -1,1 +1,1 @@
-# Landing Page Wafles
+# Landing Page Waffles
